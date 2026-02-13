@@ -2,8 +2,6 @@
 
 A full-featured **MERN stack** social network app for developers to connect, share posts, and showcase their experience and skills.
 
-> Built as part of Brad Traversy's MERN Stack Course (DevConnector 2.0) with updates and enhancements for modern development.
-
 ---
 
 ## ✨ Features
